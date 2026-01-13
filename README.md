@@ -50,3 +50,4 @@
 
 ## Notes
 - The backend uses an in-memory array for storage. Restarting the server will reset the data.
+- Run npm run dev in both in frontend and backend simultaneously for this app to work properly
